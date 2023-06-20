@@ -21,9 +21,9 @@ CS2040S - CS2040 the special term before matric
 
 **Algorithms & Theory**
 ```
-s1 - CS1231S, CS3230
-s2 - CS4231
-s3 - CS3231
+s1 - CS1231S
+s2 - CS3230
+s3 - CS3231, CS4234
 ```
 **Artificial Intelligence**
 ```
@@ -91,5 +91,3 @@ CG - Difficult since everything has CS3241 as an (implicit) prereq, and CS3241 i
 Database - Difficult since it is impossible to do this without CS3223, which is sem 2 only
 Parallel, Languages - Difficult since all 4 primaries are single sem only mods
 ```
-</br>
-*Algo can be reduced to 2 sems if you are ddp math+cs by taking placement to skip MA1521/MA2002, then doing ST2334 in sem 1 and CS3236 in sem 2
